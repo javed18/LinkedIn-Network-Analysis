@@ -23,9 +23,13 @@ Visualization: Visualize the LinkedIn network graphically using tools such as Ne
 
 Interpretation and Action: Interpret the analysis results and insights to strategize your networking efforts, identify career opportunities, and enhance your professional growth.
 
-## Requirements
+## Requirements/libraries
 Python 3.x
+
 pandas
+
 networkx
+
 matplotlib
+
 fuzzywuzzy

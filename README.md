@@ -1,6 +1,6 @@
 # LinkedIn Network Analysis
 
-This project aims to analyze your LinkedIn network using graph theory and other techniques to gain insights into your professional connections, identify key influencers and leverage network insights for career development and networking opportunities.
+This project aims to analyze your LinkedIn network to gain insights into your professional connections, identify key influencers and leverage network insights for career development and networking opportunities.
 
 ## Overview
 LinkedIn is a powerful platform for professional networking and career growth. By analyzing your LinkedIn network, you can uncover valuable insights that can help you enhance your professional opportunities, identify potential mentors or collaborators and make informed decisions about your career trajectory.
